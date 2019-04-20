@@ -1,0 +1,41 @@
+.container img{
+  width: 500px;
+  height: auto;
+}
+img{
+  width: 500px;
+  height: auto;
+}
+.nav{
+  background-color: #CCCCCC !important;
+}
+.sidebar-sticky{
+  background-color: #CCCCCC !important;
+}
+footer{
+  text-align: center !important;
+  background-color: #CCCCCC !important;
+  width: inherit;
+}
+
+.h3 {
+  text-align: center !important;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+.p {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+form{
+  border: 1px solid black;
+  background-color: #CCCCCC !important;
+  text-align: center;
+}
+choices img{
+  width: 50px;
+  height: auto;
+}
+pho img{
+  width: 200px;
+  height: 400px;
+}
